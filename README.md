@@ -1,1 +1,1 @@
-[![MasterHead](https://github.com/kgerk-dev/kgerk-dev/blob/main/header.png)(https://github.com/kgerk-dev)
+![MasterHead](https://github.com/kgerk-dev/kgerk-dev/blob/main/header.png)
