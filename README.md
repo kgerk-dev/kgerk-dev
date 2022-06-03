@@ -7,7 +7,7 @@
 # GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kgerk-dev&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgerk-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgerk-dev&langs_count=5&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Preferred Languages
 
