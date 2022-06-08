@@ -1,8 +1,21 @@
 ![ReadMe Header](https://github.com/kgerk-dev/kgerk-dev/blob/main/Images/header.png)
 
-#  Projects
-
-- TBD
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="1%" valign="top">
+      <h3 align="center">Closet App</h3>
+        <a href="https://github.com/kgerk-dev/ClosetApp.git.org">
+        <br />
+        <a target="_blank" href="">
+        </a>
+        <br />
+        <p align="center">
+    <a href="https://github.com/kgerk-dev/ClosetApp.git">
+         <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    </a>
+    </td>
+</table>
 
 # GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kgerk-dev&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
